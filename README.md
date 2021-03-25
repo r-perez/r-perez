@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on **data privacy** projects.
 - 🌱 I’m currently learning **web scraping**.
-- ⚡ Fun fact: I like to dance 🕺.
+- ⚡ Fun fact: I like to dance 🕺!
 ### ✍️ Languages of choice
 - **🐍 Python** and **☕ Java**.
 #### 🔗 Find me at [Linkedin](https://www.linkedin.com/in/rafaelperez1/).
