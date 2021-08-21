@@ -2,7 +2,6 @@
 ### 👨‍🎓 Computer Science student at [UFMG](https://ufmg.br).
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on **data privacy** projects.
-- 🌱 I’m currently learning **web scraping**.
 - ⚡ Fun fact: I like to dance 🕺!
 ### ✍️ Languages of choice
 - **🐍 Python** and **☕ Java**.
